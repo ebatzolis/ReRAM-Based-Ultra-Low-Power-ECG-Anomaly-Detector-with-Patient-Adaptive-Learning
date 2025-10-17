@@ -79,3 +79,14 @@ Power Modes:
 
 Duty Cycle (Normal Rhythm):
 - Sleep: 95% | Sample: 4% | Analyze: 1% → Average: 10 μW
+```
+## Team
+### Project Lead / Analog Design Lead
+V. Kalenteridis - Ph.D. in Electrical Engineering
+Expert in ultra-low power analog front-end design with over two decades of experience in analog design. Specializes in low-noise amplifier design, precision ADCs, and mixed-signal integration for wearable devices.
+
+### Members
+
+E. Batzolis
+Graduate Computer Science Engineer | Mphil in Computer Engineering
+Specializing in RTL design and hardware acceleration with extensive experience in low-power SoC architecture. Passionate about leveraging cutting-edge hardware technologies to solve critical healthcare challenges. Previous projects include FPGA-based signal processing systems and custom ASIC designs for biomedical applications. Expert in Verilog/SystemVerilog implementation and optimization of digital signal processing pipelines for real-time applications.
